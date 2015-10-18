@@ -3,7 +3,7 @@
 //  Kevin McKee
 //
 //  Created by Kevin McKee on 09/10/15.
-//  Copyright © 2015 Kevin McKee, Inc. All rights reserved.
+//  Copyright © 2015 Kevin McKee. All rights reserved.
 //
 
 import Foundation
